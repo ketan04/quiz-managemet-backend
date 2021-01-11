@@ -1,0 +1,6 @@
+db:
+  username: "postgres"
+  host: "192.168.0.1"
+  password: "root"
+  synchronize: false
+  port: 5432

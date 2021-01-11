@@ -1,0 +1,5 @@
+db:
+  username: "postgres"
+  host: "localhost"
+  password: "Emtec321"
+  synchronize: true
